@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\TareaAprendizaje01.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.presentacion.alumno.FrmIngresarAlumno.resources
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FrmLogin.resources
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.presentacion.FrmMenuPrincipal.resources
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\TareaAprendizaje01.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\TareaAprendizaje01.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.presentacion.alumno.FrmEditarAlumno.resources
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.presentacion.alumno.FrmEliminarAlumno.resources
+C:\Users\diego\OneDrive\Escritorio\Tarea\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.presentacion.alumno.FrmVerAlumno.resources
